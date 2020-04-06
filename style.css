@@ -1,0 +1,39 @@
+body.background1{
+  background-image:url('background.jfif');
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-attachment:scroll;
+}
+body.background2{
+  background-image:url('background3.jfif');
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-attachment:scroll;
+}
+a{
+  color:white;
+  text-decoration:none;
+}
+ul{
+  list-style-type:none;
+}
+div.relative1{
+  position:fixed;
+  top:95pt;
+  left:27pt;
+  right:0pt;
+}
+font.f1{
+  color:white;
+  font-size: 8pt;
+  font-weight:750;
+}
+font.f2{
+  color:black;
+  font-size: 8pt;
+  font-weight:500;
+  text-align: center;
+}
+.height{
+  line-height:1.5;
+}
